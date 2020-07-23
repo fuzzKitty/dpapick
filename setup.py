@@ -35,7 +35,7 @@ setup(
     url='http://www.dpapick.com',
     download_url='https://bitbucket.org/jmichel/dpapick/downloads',
     install_requires=[
-        'M2Crypto>=0.21.1',
+        'M2Crypto==0.36.0',
         'python-registry>=1.0.4',
         'pyasn1>=0.1.7',
         'CFPropertyList',
